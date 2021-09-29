@@ -80,7 +80,7 @@ const App = () => {
                     Footer
                 </Typography>
                 <Typography variant="subtitle1" align="center" color="textSecondary">
-                    Something here to give the footer a purpose!
+                    all right resaverd by 
                 </Typography>
             </footer>
         </>
